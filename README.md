@@ -66,25 +66,7 @@ The form does not submit data to any backend but shows a success message upon va
 | Blank Message        | Error: "Message is required."                    |
 | All Fields Valid     | Success: "Form submitted successfully!"          |
 
----
 
-## 💡 Bonus Tip
-You can connect this form to services like:
-- [Formspree](https://formspree.io/)
-- [Getform](https://getform.io/)
-- [Google Forms](https://docs.google.com/forms/)
 
-This allows you to collect real submissions without writing backend code.
 
----
-
-## 🔗 Demo
-If hosted on GitHub Pages, the form can be accessed at:  
-👉 **https://revant076.github.io/Task06-Contact-Form/** *(Example)*
-
----
-
-## ©️ Author
-**Revanth Reddy**  
-GitHub: [REVANTH076](https://github.com/REVANTH076)
 
